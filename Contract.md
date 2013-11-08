@@ -46,10 +46,10 @@ Now, let’s do great work together!
 
 **Harry Roberts, ‘CSS Wizardry’, ‘I’:**
 
-Harry Roberts  
 [Address]
 
 **[Name], ‘The Client’, ‘You’:**
+
 [Address]
 
 ## Scope of The Work
