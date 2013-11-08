@@ -2,7 +2,7 @@
 
 ## Terms and definitions
 
-* **‘This document** refers to this contract and the terms and agreements within
+* **‘This document’** refers to this contract and the terms and agreements within
   it.
 * **‘The Work’** refers to the project for which this document was actioned.
   This could be, but is far from limited to: a workshop, consultancy time,
