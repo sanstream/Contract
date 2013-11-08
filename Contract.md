@@ -60,7 +60,7 @@ documents detailing the scope of The Work are supplementary to this document and
 shall be referenced and referred to when agreeing and defining the project’s
 scope.
 
-## Change in scope
+### Change in scope
 
 There are times when the scope of The Work may change. Ideally we will handle
 these as-and-when, and in a pragmatic manner, but any major deviations in scope
