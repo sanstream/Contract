@@ -136,7 +136,8 @@ An upfront deposit of 50% is required before commencing with any agreed work.
 This deposit is non-refundable and will only be paid once a fixed scope has been
 set, and we are confident that we wish to work together to these agreed terms.
 No deposit shall be taken until You are completely happy with, and clear about,
-the agreed scope of The Work and its surrounding terms.
+the agreed scope of The Work and its surrounding terms. Work shall commence as
+soon as the deposit is received.
 
 ### Payment terms
 
