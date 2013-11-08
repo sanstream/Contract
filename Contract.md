@@ -166,8 +166,8 @@ and after The Work.
 The undersigned confirm that they have read, understood, and shall adhere to the
 terms laid out in this document:
 
-**Harry Roberts:**
-**Date:**
+* **Harry Roberts:**
+* **Date:**
 
-**You:**
-**Date:**
+* **You:**
+* **Date:**
